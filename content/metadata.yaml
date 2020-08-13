@@ -1,0 +1,100 @@
+---
+title: "Opportunities and obstacles for deep learning in biology and medicine [update in progress]"
+keywords:
+  - deep learning
+  - review
+  - precision medicine
+  - genomics
+  - machine learning
+  - neural networks
+  - collaborative
+  - manubot
+lang: en-US
+authors:
+  - github: jlevy44
+    name: Joshua J. Levy
+    orcid: 0000-0001-8050-1291
+    email: joshua.j.levy.gr@dartmouth.edu
+    affiliations:
+      - Program in Quantitative Biomedical Sciences, Geisel School of Medicine at Dartmouth, Lebanon, NH
+    funders: Burroughs Wellcome Fund Big Data in the Life Sciences training grant at Dartmouth
+    v1: ""
+    v2: "Drafted one or more subsections"
+    coi:
+      string: "None"
+      lastapproved: !!str 2020-03-04
+  - github: brockclarke
+    name: Brock C. Christensen
+    orcid: 0000-0003-3022-426X
+    email: brock.christensen@dartmouth.edu
+    affiliations:
+      - Department of Epidemiology, Geisel School of Medicine, Dartmouth College, Lebanon, NH
+    funders: NIH R01CA216265, Dartmouth College Neukom Institute for Computational Science CompX award
+    v1: ""
+    v2: "Drafted one or more subsections"
+    coi:
+      string: "None"
+      lastapproved: !!str 2020-03-05
+  - github: AlexanderTitus
+    name: Alexander J. Titus
+    orcid: 0000-0002-0145-9564
+    email: alexander.j.titus@dartmouth.edu
+    affiliations:
+      - Department of Epidemiology, Geisel School of Medicine, Dartmouth College, Lebanon, NH
+    funders: NIH T32LM012204
+    v1: ""
+    v2: "Drafted one or more subsections"
+    coi:
+      string: "None"
+      lastapproved: !!str 2020-03-07
+  - github: cgreene
+    name: Casey S. Greene
+    orcid: 0000-0001-8713-9213
+    email: greenescientist@gmail.com
+    affiliations:
+      - Department of Systems Pharmacology and Translational Therapeutics, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA
+      - Childhood Cancer Data Lab, Alex's Lemonade Stand Foundation, Philadelphia, PA
+    funders: GBMF GBMF4552, NIH R01HG010067 & R01CA237170, ALSF CCDL
+    symbol_str: "†"
+    v1: "Drafted sub-sections, edited the manuscript, reviewed pull requests, and coordinated co-authors"
+    v2: "Drafted sub-sections, edited the manuscript, reviewed pull requests, and coordinated co-authors"
+    coi:
+      string: "None"
+      lastapproved: !!str 2020-03-10
+  - github: dhimmel
+    name: Daniel S. Himmelstein
+    orcid: 0000-0002-3012-7446
+    email: daniel.himmelstein@gmail.com
+    affiliations:
+      - Department of Systems Pharmacology and Translational Therapeutics, University of Pennsylvania, Philadelphia, Pennsylvania, United States of America
+    funders: G-2018-11163 and GBMF4552
+    v1: "Edited the manuscript, reviewed pull requests, and developed Manubot"
+    v2: "Edited the manuscript, reviewed pull requests, and developed Manubot"
+    coi:
+      string: "None"
+      lastapproved: !!str 2020-03-10
+  - github: delton137
+    name: Daniel C. Elton
+    orcid: 0000-0003-0249-1387
+    email: daniel.elton@nih.gov
+    affiliations:
+      - Radiology and Imaging Sciences, National Institutes of Health Clinical Center, Bethesda, MD
+    v1: ""
+    v2: "Revised specific sub-sections or supervised drafting one or more sub-sections"
+    coi:
+      string: "None"
+      lastapproved: !!str 2020-03-05
+  - github: agitter
+    name: Anthony Gitter
+    orcid: 0000-0002-5324-9833
+    email: gitter@biostat.wisc.edu
+    affiliations:
+      - Department of Biostatistics and Medical Informatics, University of Wisconsin-Madison, Madison, WI
+      - Morgridge Institute for Research, Madison, WI
+    funders: John W. and Jeanne M. Rowe Center for Research in Virology
+    symbol_str: "†"
+    v1: "Drafted sub-sections, edited the manuscript, reviewed pull requests, and coordinated co-authors"
+    v2: "Drafted sub-sections, edited the manuscript, reviewed pull requests, and coordinated co-authors"
+    coi:
+      string: "Filed a provisional patent application with the Wisconsin Alumni Research Foundation related to classifying activated T cells"
+      lastapproved: !!str 2020-08-09
