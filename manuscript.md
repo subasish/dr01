@@ -1,11 +1,11 @@
 ---
 author-meta:
-- Brock C. Christensen
-- Daniel S. Himmelstein
 - Alexander J. Titus
-- Daniel C. Elton
+- Daniel S. Himmelstein
 - Joshua J. Levy
+- Daniel C. Elton
 - Anthony Gitter
+- Brock C. Christensen
 - Casey S. Greene
 bibliography:
 - content/manual-references-2020-01-29.json
@@ -45,11 +45,11 @@ header-includes: '<!--
 
   <meta name="citation_technical_report_institution" content="Manubot" />
 
-  <meta name="citation_author" content="Brock C. Christensen" />
+  <meta name="citation_author" content="Alexander J. Titus" />
 
   <meta name="citation_author_institution" content="Department of Epidemiology, Geisel School of Medicine, Dartmouth College, Lebanon, NH" />
 
-  <meta name="citation_author_orcid" content="0000-0003-3022-426X" />
+  <meta name="citation_author_orcid" content="0000-0002-0145-9564" />
 
   <meta name="citation_author" content="Daniel S. Himmelstein" />
 
@@ -57,23 +57,17 @@ header-includes: '<!--
 
   <meta name="citation_author_orcid" content="0000-0002-3012-7446" />
 
-  <meta name="citation_author" content="Alexander J. Titus" />
+  <meta name="citation_author" content="Joshua J. Levy" />
 
-  <meta name="citation_author_institution" content="Department of Epidemiology, Geisel School of Medicine, Dartmouth College, Lebanon, NH" />
+  <meta name="citation_author_institution" content="Program in Quantitative Biomedical Sciences, Geisel School of Medicine at Dartmouth, Lebanon, NH" />
 
-  <meta name="citation_author_orcid" content="0000-0002-0145-9564" />
+  <meta name="citation_author_orcid" content="0000-0001-8050-1291" />
 
   <meta name="citation_author" content="Daniel C. Elton" />
 
   <meta name="citation_author_institution" content="Radiology and Imaging Sciences, National Institutes of Health Clinical Center, Bethesda, MD" />
 
   <meta name="citation_author_orcid" content="0000-0003-0249-1387" />
-
-  <meta name="citation_author" content="Joshua J. Levy" />
-
-  <meta name="citation_author_institution" content="Program in Quantitative Biomedical Sciences, Geisel School of Medicine at Dartmouth, Lebanon, NH" />
-
-  <meta name="citation_author_orcid" content="0000-0001-8050-1291" />
 
   <meta name="citation_author" content="Anthony Gitter" />
 
@@ -82,6 +76,12 @@ header-includes: '<!--
   <meta name="citation_author_institution" content="Morgridge Institute for Research, Madison, WI" />
 
   <meta name="citation_author_orcid" content="0000-0002-5324-9833" />
+
+  <meta name="citation_author" content="Brock C. Christensen" />
+
+  <meta name="citation_author_institution" content="Department of Epidemiology, Geisel School of Medicine, Dartmouth College, Lebanon, NH" />
+
+  <meta name="citation_author_orcid" content="0000-0003-3022-426X" />
 
   <meta name="citation_author" content="Casey S. Greene" />
 
@@ -103,19 +103,19 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://subasish.github.io/dr01/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://subasish.github.io/dr01/v/885b6902e5727d33043f838db35371c7419467d4/" />
+  <link rel="alternate" type="text/html" href="https://subasish.github.io/dr01/v/89260f9a0158cb177eb28098dd57502d89919427/" />
 
-  <meta name="manubot_html_url_versioned" content="https://subasish.github.io/dr01/v/885b6902e5727d33043f838db35371c7419467d4/" />
+  <meta name="manubot_html_url_versioned" content="https://subasish.github.io/dr01/v/89260f9a0158cb177eb28098dd57502d89919427/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://subasish.github.io/dr01/v/885b6902e5727d33043f838db35371c7419467d4/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://subasish.github.io/dr01/v/89260f9a0158cb177eb28098dd57502d89919427/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
   <meta property="twitter:card" content="summary_large_image" />
 
-  <meta property="og:image" content="https://github.com/subasish/dr01/raw/885b6902e5727d33043f838db35371c7419467d4/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/subasish/dr01/raw/89260f9a0158cb177eb28098dd57502d89919427/thumbnail.png" />
 
-  <meta property="twitter:image" content="https://github.com/subasish/dr01/raw/885b6902e5727d33043f838db35371c7419467d4/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/subasish/dr01/raw/89260f9a0158cb177eb28098dd57502d89919427/thumbnail.png" />
 
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
 
@@ -155,9 +155,9 @@ New authors and links to new sections are available in [GitHub Issue #959](https
 
 <small><em>
 This manuscript
-([permalink](https://subasish.github.io/dr01/v/885b6902e5727d33043f838db35371c7419467d4/))
+([permalink](https://subasish.github.io/dr01/v/89260f9a0158cb177eb28098dd57502d89919427/))
 was automatically generated
-from [subasish/dr01@885b690](https://github.com/subasish/dr01/tree/885b6902e5727d33043f838db35371c7419467d4)
+from [subasish/dr01@89260f9](https://github.com/subasish/dr01/tree/89260f9a0158cb177eb28098dd57502d89919427)
 on August 13, 2020.
 </em></small>
 
@@ -166,18 +166,18 @@ on August 13, 2020.
 ### Version 2.0 authors
 
 
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0003-3022-426X)
-    Brock C. Christensen<sup>2.1⚄</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-3012-7446)
-    Daniel S. Himmelstein<sup>2.2⚄</sup>,
   [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-0145-9564)
     Alexander J. Titus<sup>2.1⚄</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0003-0249-1387)
-    Daniel C. Elton<sup>2.3⚄</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-3012-7446)
+    Daniel S. Himmelstein<sup>2.2⚄</sup>,
   [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0001-8050-1291)
-    Joshua J. Levy<sup>2.4⚄</sup>,
+    Joshua J. Levy<sup>2.3⚄</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0003-0249-1387)
+    Daniel C. Elton<sup>2.4⚄</sup>,
   [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-5324-9833)
     Anthony Gitter<sup>2.5,2.6⚄,†</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0003-3022-426X)
+    Brock C. Christensen<sup>2.1⚄</sup>,
   [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0001-8713-9213)
     Casey S. Greene<sup>2.7,2.8⚄,†</sup>,
 [The Version 1.0 Deep Review Authors](#version-1.0-authors)
@@ -190,8 +190,8 @@ on August 13, 2020.
 
 2.1. Department of Epidemiology, Geisel School of Medicine, Dartmouth College, Lebanon, NH<br>
 2.2. Department of Systems Pharmacology and Translational Therapeutics, University of Pennsylvania, Philadelphia, Pennsylvania, United States of America<br>
-2.3. Radiology and Imaging Sciences, National Institutes of Health Clinical Center, Bethesda, MD<br>
-2.4. Program in Quantitative Biomedical Sciences, Geisel School of Medicine at Dartmouth, Lebanon, NH<br>
+2.3. Program in Quantitative Biomedical Sciences, Geisel School of Medicine at Dartmouth, Lebanon, NH<br>
+2.4. Radiology and Imaging Sciences, National Institutes of Health Clinical Center, Bethesda, MD<br>
 2.5. Department of Biostatistics and Medical Informatics, University of Wisconsin-Madison, Madison, WI<br>
 2.6. Morgridge Institute for Research, Madison, WI<br>
 2.7. Department of Systems Pharmacology and Translational Therapeutics, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA<br>
@@ -510,7 +510,7 @@ Pre-training on natural images can enable very deep networks to succeed without 
 For the melanoma task, reported performance was competitive with or better than a board of certified dermatologists [@tag:Codella2016_ensemble_melanoma; @tag:Esteva2017_skin_cancer_nature].
 Reusing features from natural images is also an emerging approach for radiographic images, where datasets are often too small to train large deep neural networks without these techniques [@tag:Bar2015_nonmed_tl; @tag:Shin2016_cad_tl; @tag:Rajkomar2017_radiographs; @tag:Lakhani2017_radiography].
 A deep CNN trained on natural images boosts performance in radiographic images [@tag:Rajkomar2017_radiographs].
-However, the target task required either re-training the initial model from scratch with special pre-processing or fine-tuning of the whole network on radiographs with heavy data augmentation to avoid overfitting.
+However, the target task required either re-training the initial model from scratch with special pre-processing or fine-tuning of the whole network on radiographs with heavy data augmentation to avoid overfitting. I have made a change here. 
 
 The technique of reusing features from a different task falls into the broader area of transfer learning (see Discussion).
 Though we've mentioned numerous successes for the transfer of natural image features to new tasks, we expect that a lower proportion of negative results have been published.
@@ -2156,7 +2156,7 @@ Manubot allowed us to automate this process, using the Git commit hash as a rand
 
 We continued using the open repository on the GitHub version control platform ([`greenelab/deep-review`](https://github.com/greenelab/deep-review)) [@url:https://github.com/greenelab/deep-review], which was established to write the version 1.0 manuscript.
 
-  Drafted one or more subsections: Brock C. Christensen, Alexander J. Titus, Joshua J. Levy. 
+  Drafted one or more subsections: Alexander J. Titus, Joshua J. Levy, Brock C. Christensen. 
 
   Drafted sub-sections, edited the manuscript, reviewed pull requests, and coordinated co-authors: Anthony Gitter, Casey S. Greene. 
 
@@ -2169,12 +2169,12 @@ We continued using the open repository on the GitHub version control platform ([
 
 |Author|Competing Interests|Last Reviewed|
 |---|---|---|
-|Brock C. Christensen|None|2020-03-05|
-|Daniel S. Himmelstein|None|2020-03-10|
 |Alexander J. Titus|None|2020-03-07|
-|Daniel C. Elton|None|2020-03-05|
+|Daniel S. Himmelstein|None|2020-03-10|
 |Joshua J. Levy|None|2020-03-04|
+|Daniel C. Elton|None|2020-03-05|
 |Anthony Gitter|Filed a provisional patent application with the Wisconsin Alumni Research Foundation related to classifying activated T cells|2020-08-09|
+|Brock C. Christensen|None|2020-03-05|
 |Casey S. Greene|None|2020-03-10|
 
 ##### Version 2.0 funding statement
