@@ -1,12 +1,12 @@
 ---
 author-meta:
-- Daniel S. Himmelstein
 - Casey S. Greene
-- Anthony Gitter
 - Joshua J. Levy
+- Daniel C. Elton
+- Anthony Gitter
+- Daniel S. Himmelstein
 - Brock C. Christensen
 - Alexander J. Titus
-- Daniel C. Elton
 bibliography:
 - content/manual-references-2020-01-29.json
 - content/manual-references.json
@@ -45,12 +45,6 @@ header-includes: '<!--
 
   <meta name="citation_technical_report_institution" content="Manubot" />
 
-  <meta name="citation_author" content="Daniel S. Himmelstein" />
-
-  <meta name="citation_author_institution" content="Department of Systems Pharmacology and Translational Therapeutics, University of Pennsylvania, Philadelphia, Pennsylvania, United States of America" />
-
-  <meta name="citation_author_orcid" content="0000-0002-3012-7446" />
-
   <meta name="citation_author" content="Casey S. Greene" />
 
   <meta name="citation_author_institution" content="Department of Systems Pharmacology and Translational Therapeutics, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA" />
@@ -58,6 +52,18 @@ header-includes: '<!--
   <meta name="citation_author_institution" content="Childhood Cancer Data Lab, Alex&#39;s Lemonade Stand Foundation, Philadelphia, PA" />
 
   <meta name="citation_author_orcid" content="0000-0001-8713-9213" />
+
+  <meta name="citation_author" content="Joshua J. Levy" />
+
+  <meta name="citation_author_institution" content="Program in Quantitative Biomedical Sciences, Geisel School of Medicine at Dartmouth, Lebanon, NH" />
+
+  <meta name="citation_author_orcid" content="0000-0001-8050-1291" />
+
+  <meta name="citation_author" content="Daniel C. Elton" />
+
+  <meta name="citation_author_institution" content="Radiology and Imaging Sciences, National Institutes of Health Clinical Center, Bethesda, MD" />
+
+  <meta name="citation_author_orcid" content="0000-0003-0249-1387" />
 
   <meta name="citation_author" content="Anthony Gitter" />
 
@@ -67,11 +73,11 @@ header-includes: '<!--
 
   <meta name="citation_author_orcid" content="0000-0002-5324-9833" />
 
-  <meta name="citation_author" content="Joshua J. Levy" />
+  <meta name="citation_author" content="Daniel S. Himmelstein" />
 
-  <meta name="citation_author_institution" content="Program in Quantitative Biomedical Sciences, Geisel School of Medicine at Dartmouth, Lebanon, NH" />
+  <meta name="citation_author_institution" content="Department of Systems Pharmacology and Translational Therapeutics, University of Pennsylvania, Philadelphia, Pennsylvania, United States of America" />
 
-  <meta name="citation_author_orcid" content="0000-0001-8050-1291" />
+  <meta name="citation_author_orcid" content="0000-0002-3012-7446" />
 
   <meta name="citation_author" content="Brock C. Christensen" />
 
@@ -85,12 +91,6 @@ header-includes: '<!--
 
   <meta name="citation_author_orcid" content="0000-0002-0145-9564" />
 
-  <meta name="citation_author" content="Daniel C. Elton" />
-
-  <meta name="citation_author_institution" content="Radiology and Imaging Sciences, National Institutes of Health Clinical Center, Bethesda, MD" />
-
-  <meta name="citation_author_orcid" content="0000-0003-0249-1387" />
-
   <link rel="canonical" href="https://subasish.github.io/dr01/" />
 
   <meta property="og:url" content="https://subasish.github.io/dr01/" />
@@ -103,19 +103,19 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://subasish.github.io/dr01/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://subasish.github.io/dr01/v/27a3feb3e465979ff019b24135e9bd50207e7faf/" />
+  <link rel="alternate" type="text/html" href="https://subasish.github.io/dr01/v/7146a2499fe80da946309568a8faae53878e04ea/" />
 
-  <meta name="manubot_html_url_versioned" content="https://subasish.github.io/dr01/v/27a3feb3e465979ff019b24135e9bd50207e7faf/" />
+  <meta name="manubot_html_url_versioned" content="https://subasish.github.io/dr01/v/7146a2499fe80da946309568a8faae53878e04ea/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://subasish.github.io/dr01/v/27a3feb3e465979ff019b24135e9bd50207e7faf/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://subasish.github.io/dr01/v/7146a2499fe80da946309568a8faae53878e04ea/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
   <meta property="twitter:card" content="summary_large_image" />
 
-  <meta property="og:image" content="https://github.com/subasish/dr01/raw/27a3feb3e465979ff019b24135e9bd50207e7faf/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/subasish/dr01/raw/7146a2499fe80da946309568a8faae53878e04ea/thumbnail.png" />
 
-  <meta property="twitter:image" content="https://github.com/subasish/dr01/raw/27a3feb3e465979ff019b24135e9bd50207e7faf/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/subasish/dr01/raw/7146a2499fe80da946309568a8faae53878e04ea/thumbnail.png" />
 
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
 
@@ -155,9 +155,9 @@ New authors and links to new sections are available in [GitHub Issue #959](https
 
 <small><em>
 This manuscript
-([permalink](https://subasish.github.io/dr01/v/27a3feb3e465979ff019b24135e9bd50207e7faf/))
+([permalink](https://subasish.github.io/dr01/v/7146a2499fe80da946309568a8faae53878e04ea/))
 was automatically generated
-from [subasish/dr01@27a3feb](https://github.com/subasish/dr01/tree/27a3feb3e465979ff019b24135e9bd50207e7faf)
+from [subasish/dr01@7146a24](https://github.com/subasish/dr01/tree/7146a2499fe80da946309568a8faae53878e04ea)
 on August 13, 2020.
 </em></small>
 
@@ -166,20 +166,20 @@ on August 13, 2020.
 ### Version 2.0 authors
 
 
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-3012-7446)
-    Daniel S. Himmelstein<sup>2.1⚄</sup>,
   [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0001-8713-9213)
-    Casey S. Greene<sup>2.2,2.3⚄,†</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-5324-9833)
-    Anthony Gitter<sup>2.4,2.5⚄,†</sup>,
+    Casey S. Greene<sup>2.1,2.2⚄,†</sup>,
   [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0001-8050-1291)
-    Joshua J. Levy<sup>2.6⚄</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0003-3022-426X)
-    Brock C. Christensen<sup>2.7⚄</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-0145-9564)
-    Alexander J. Titus<sup>2.7⚄</sup>,
+    Joshua J. Levy<sup>2.3⚄</sup>,
   [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0003-0249-1387)
-    Daniel C. Elton<sup>2.8⚄</sup>,
+    Daniel C. Elton<sup>2.4⚄</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-5324-9833)
+    Anthony Gitter<sup>2.5,2.6⚄,†</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-3012-7446)
+    Daniel S. Himmelstein<sup>2.7⚄</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0003-3022-426X)
+    Brock C. Christensen<sup>2.8⚄</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-0145-9564)
+    Alexander J. Titus<sup>2.8⚄</sup>,
 [The Version 1.0 Deep Review Authors](#version-1.0-authors)
 
 <sup>⚄</sup> --- Author order for version 2.0 is currently randomized [with each new build](https://github.com/greenelab/deep-review/pull/997).<br>
@@ -188,14 +188,14 @@ on August 13, 2020.
 <small>
 
 
-2.1. Department of Systems Pharmacology and Translational Therapeutics, University of Pennsylvania, Philadelphia, Pennsylvania, United States of America<br>
-2.2. Department of Systems Pharmacology and Translational Therapeutics, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA<br>
-2.3. Childhood Cancer Data Lab, Alex's Lemonade Stand Foundation, Philadelphia, PA<br>
-2.4. Department of Biostatistics and Medical Informatics, University of Wisconsin-Madison, Madison, WI<br>
-2.5. Morgridge Institute for Research, Madison, WI<br>
-2.6. Program in Quantitative Biomedical Sciences, Geisel School of Medicine at Dartmouth, Lebanon, NH<br>
-2.7. Department of Epidemiology, Geisel School of Medicine, Dartmouth College, Lebanon, NH<br>
-2.8. Radiology and Imaging Sciences, National Institutes of Health Clinical Center, Bethesda, MD<br>
+2.1. Department of Systems Pharmacology and Translational Therapeutics, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA<br>
+2.2. Childhood Cancer Data Lab, Alex's Lemonade Stand Foundation, Philadelphia, PA<br>
+2.3. Program in Quantitative Biomedical Sciences, Geisel School of Medicine at Dartmouth, Lebanon, NH<br>
+2.4. Radiology and Imaging Sciences, National Institutes of Health Clinical Center, Bethesda, MD<br>
+2.5. Department of Biostatistics and Medical Informatics, University of Wisconsin-Madison, Madison, WI<br>
+2.6. Morgridge Institute for Research, Madison, WI<br>
+2.7. Department of Systems Pharmacology and Translational Therapeutics, University of Pennsylvania, Philadelphia, Pennsylvania, United States of America<br>
+2.8. Department of Epidemiology, Geisel School of Medicine, Dartmouth College, Lebanon, NH<br>
 
 </small>
 
@@ -320,14 +320,7 @@ on August 13, 2020.
 
 ## Abstract {.page_break_before}
 
-Deep learning describes a class of machine learning algorithms that are capable of combining raw inputs into layers of intermediate features. These algorithms have recently shown impressive results across a variety of domains.
-Biology and medicine are data-rich disciplines, but the data are complex and often ill-understood. Hence, deep learning techniques may be particularly well-suited to solve problems of these fields.
-We examine applications of deep learning to a variety of biomedical problems---patient classification, fundamental biological processes, and treatment of patients---and discuss whether deep learning will be able to transform these tasks or if the biomedical sphere poses unique challenges.
-Following from an extensive literature review, we find that deep learning has yet to revolutionize biomedicine or definitively resolve any of the most pressing challenges in the field, but promising advances have been made on the prior state of the art.
-Even though improvements over previous baselines have been modest in general, the recent progress indicates that deep learning methods will provide valuable means for speeding up or aiding human investigation.
-Though progress has been made linking a specific neural network's prediction to input features, understanding how users should interpret these models to make testable hypotheses about the system under study remains an open challenge.
-Furthermore, the limited amount of labeled data for training presents problems in some domains, as do legal and privacy constraints on work with sensitive health records.
-Nonetheless, we foresee deep learning enabling changes at both bench and bedside with the potential to transform several areas of biology and medicine.
+Deep learning describes a class of machine learning algorithms that are capable of combining raw inputs into layers of intermediate features. These algorithms have recently shown impressive results across a variety of domains.ABVVV.
 
 
 ## Introduction to deep learning
@@ -2169,13 +2162,13 @@ We continued using the open repository on the GitHub version control platform ([
 
 |Author|Competing Interests|Last Reviewed|
 |---|---|---|
-|Daniel S. Himmelstein|None|2020-03-10|
 |Casey S. Greene|None|2020-03-10|
-|Anthony Gitter|Filed a provisional patent application with the Wisconsin Alumni Research Foundation related to classifying activated T cells|2020-08-09|
 |Joshua J. Levy|None|2020-03-04|
+|Daniel C. Elton|None|2020-03-05|
+|Anthony Gitter|Filed a provisional patent application with the Wisconsin Alumni Research Foundation related to classifying activated T cells|2020-08-09|
+|Daniel S. Himmelstein|None|2020-03-10|
 |Brock C. Christensen|None|2020-03-05|
 |Alexander J. Titus|None|2020-03-07|
-|Daniel C. Elton|None|2020-03-05|
 
 ##### Version 2.0 funding statement
 
