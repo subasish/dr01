@@ -1,12 +1,12 @@
 ---
 author-meta:
-- Anthony Gitter
-- Alexander J. Titus
-- Casey S. Greene
-- Daniel C. Elton
 - Brock C. Christensen
 - Daniel S. Himmelstein
+- Alexander J. Titus
+- Daniel C. Elton
 - Joshua J. Levy
+- Anthony Gitter
+- Casey S. Greene
 bibliography:
 - content/manual-references-2020-01-29.json
 - content/manual-references.json
@@ -45,34 +45,6 @@ header-includes: '<!--
 
   <meta name="citation_technical_report_institution" content="Manubot" />
 
-  <meta name="citation_author" content="Anthony Gitter" />
-
-  <meta name="citation_author_institution" content="Department of Biostatistics and Medical Informatics, University of Wisconsin-Madison, Madison, WI" />
-
-  <meta name="citation_author_institution" content="Morgridge Institute for Research, Madison, WI" />
-
-  <meta name="citation_author_orcid" content="0000-0002-5324-9833" />
-
-  <meta name="citation_author" content="Alexander J. Titus" />
-
-  <meta name="citation_author_institution" content="Department of Epidemiology, Geisel School of Medicine, Dartmouth College, Lebanon, NH" />
-
-  <meta name="citation_author_orcid" content="0000-0002-0145-9564" />
-
-  <meta name="citation_author" content="Casey S. Greene" />
-
-  <meta name="citation_author_institution" content="Department of Systems Pharmacology and Translational Therapeutics, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA" />
-
-  <meta name="citation_author_institution" content="Childhood Cancer Data Lab, Alex&#39;s Lemonade Stand Foundation, Philadelphia, PA" />
-
-  <meta name="citation_author_orcid" content="0000-0001-8713-9213" />
-
-  <meta name="citation_author" content="Daniel C. Elton" />
-
-  <meta name="citation_author_institution" content="Radiology and Imaging Sciences, National Institutes of Health Clinical Center, Bethesda, MD" />
-
-  <meta name="citation_author_orcid" content="0000-0003-0249-1387" />
-
   <meta name="citation_author" content="Brock C. Christensen" />
 
   <meta name="citation_author_institution" content="Department of Epidemiology, Geisel School of Medicine, Dartmouth College, Lebanon, NH" />
@@ -85,11 +57,39 @@ header-includes: '<!--
 
   <meta name="citation_author_orcid" content="0000-0002-3012-7446" />
 
+  <meta name="citation_author" content="Alexander J. Titus" />
+
+  <meta name="citation_author_institution" content="Department of Epidemiology, Geisel School of Medicine, Dartmouth College, Lebanon, NH" />
+
+  <meta name="citation_author_orcid" content="0000-0002-0145-9564" />
+
+  <meta name="citation_author" content="Daniel C. Elton" />
+
+  <meta name="citation_author_institution" content="Radiology and Imaging Sciences, National Institutes of Health Clinical Center, Bethesda, MD" />
+
+  <meta name="citation_author_orcid" content="0000-0003-0249-1387" />
+
   <meta name="citation_author" content="Joshua J. Levy" />
 
   <meta name="citation_author_institution" content="Program in Quantitative Biomedical Sciences, Geisel School of Medicine at Dartmouth, Lebanon, NH" />
 
   <meta name="citation_author_orcid" content="0000-0001-8050-1291" />
+
+  <meta name="citation_author" content="Anthony Gitter" />
+
+  <meta name="citation_author_institution" content="Department of Biostatistics and Medical Informatics, University of Wisconsin-Madison, Madison, WI" />
+
+  <meta name="citation_author_institution" content="Morgridge Institute for Research, Madison, WI" />
+
+  <meta name="citation_author_orcid" content="0000-0002-5324-9833" />
+
+  <meta name="citation_author" content="Casey S. Greene" />
+
+  <meta name="citation_author_institution" content="Department of Systems Pharmacology and Translational Therapeutics, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA" />
+
+  <meta name="citation_author_institution" content="Childhood Cancer Data Lab, Alex&#39;s Lemonade Stand Foundation, Philadelphia, PA" />
+
+  <meta name="citation_author_orcid" content="0000-0001-8713-9213" />
 
   <link rel="canonical" href="https://subasish.github.io/dr01/" />
 
@@ -103,19 +103,19 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://subasish.github.io/dr01/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://subasish.github.io/dr01/v/002b692a994fb36c8fd928fd198f9db1f7d7cc55/" />
+  <link rel="alternate" type="text/html" href="https://subasish.github.io/dr01/v/885b6902e5727d33043f838db35371c7419467d4/" />
 
-  <meta name="manubot_html_url_versioned" content="https://subasish.github.io/dr01/v/002b692a994fb36c8fd928fd198f9db1f7d7cc55/" />
+  <meta name="manubot_html_url_versioned" content="https://subasish.github.io/dr01/v/885b6902e5727d33043f838db35371c7419467d4/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://subasish.github.io/dr01/v/002b692a994fb36c8fd928fd198f9db1f7d7cc55/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://subasish.github.io/dr01/v/885b6902e5727d33043f838db35371c7419467d4/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
   <meta property="twitter:card" content="summary_large_image" />
 
-  <meta property="og:image" content="https://github.com/subasish/dr01/raw/002b692a994fb36c8fd928fd198f9db1f7d7cc55/thumbnail.png" />
+  <meta property="og:image" content="https://github.com/subasish/dr01/raw/885b6902e5727d33043f838db35371c7419467d4/thumbnail.png" />
 
-  <meta property="twitter:image" content="https://github.com/subasish/dr01/raw/002b692a994fb36c8fd928fd198f9db1f7d7cc55/thumbnail.png" />
+  <meta property="twitter:image" content="https://github.com/subasish/dr01/raw/885b6902e5727d33043f838db35371c7419467d4/thumbnail.png" />
 
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
 
@@ -155,9 +155,9 @@ New authors and links to new sections are available in [GitHub Issue #959](https
 
 <small><em>
 This manuscript
-([permalink](https://subasish.github.io/dr01/v/002b692a994fb36c8fd928fd198f9db1f7d7cc55/))
+([permalink](https://subasish.github.io/dr01/v/885b6902e5727d33043f838db35371c7419467d4/))
 was automatically generated
-from [subasish/dr01@002b692](https://github.com/subasish/dr01/tree/002b692a994fb36c8fd928fd198f9db1f7d7cc55)
+from [subasish/dr01@885b690](https://github.com/subasish/dr01/tree/885b6902e5727d33043f838db35371c7419467d4)
 on August 13, 2020.
 </em></small>
 
@@ -166,20 +166,20 @@ on August 13, 2020.
 ### Version 2.0 authors
 
 
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-5324-9833)
-    Anthony Gitter<sup>2.1,2.2⚄,†</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-0145-9564)
-    Alexander J. Titus<sup>2.3⚄</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0001-8713-9213)
-    Casey S. Greene<sup>2.4,2.5⚄,†</sup>,
-  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0003-0249-1387)
-    Daniel C. Elton<sup>2.6⚄</sup>,
   [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0003-3022-426X)
-    Brock C. Christensen<sup>2.3⚄</sup>,
+    Brock C. Christensen<sup>2.1⚄</sup>,
   [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-3012-7446)
-    Daniel S. Himmelstein<sup>2.7⚄</sup>,
+    Daniel S. Himmelstein<sup>2.2⚄</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-0145-9564)
+    Alexander J. Titus<sup>2.1⚄</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0003-0249-1387)
+    Daniel C. Elton<sup>2.3⚄</sup>,
   [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0001-8050-1291)
-    Joshua J. Levy<sup>2.8⚄</sup>,
+    Joshua J. Levy<sup>2.4⚄</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0002-5324-9833)
+    Anthony Gitter<sup>2.5,2.6⚄,†</sup>,
+  [![ORCID icon](images/orcid.svg){height="11px" width="11px"}](https://orcid.org/0000-0001-8713-9213)
+    Casey S. Greene<sup>2.7,2.8⚄,†</sup>,
 [The Version 1.0 Deep Review Authors](#version-1.0-authors)
 
 <sup>⚄</sup> --- Author order for version 2.0 is currently randomized [with each new build](https://github.com/greenelab/deep-review/pull/997).<br>
@@ -188,14 +188,14 @@ on August 13, 2020.
 <small>
 
 
-2.1. Department of Biostatistics and Medical Informatics, University of Wisconsin-Madison, Madison, WI<br>
-2.2. Morgridge Institute for Research, Madison, WI<br>
-2.3. Department of Epidemiology, Geisel School of Medicine, Dartmouth College, Lebanon, NH<br>
-2.4. Department of Systems Pharmacology and Translational Therapeutics, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA<br>
-2.5. Childhood Cancer Data Lab, Alex's Lemonade Stand Foundation, Philadelphia, PA<br>
-2.6. Radiology and Imaging Sciences, National Institutes of Health Clinical Center, Bethesda, MD<br>
-2.7. Department of Systems Pharmacology and Translational Therapeutics, University of Pennsylvania, Philadelphia, Pennsylvania, United States of America<br>
-2.8. Program in Quantitative Biomedical Sciences, Geisel School of Medicine at Dartmouth, Lebanon, NH<br>
+2.1. Department of Epidemiology, Geisel School of Medicine, Dartmouth College, Lebanon, NH<br>
+2.2. Department of Systems Pharmacology and Translational Therapeutics, University of Pennsylvania, Philadelphia, Pennsylvania, United States of America<br>
+2.3. Radiology and Imaging Sciences, National Institutes of Health Clinical Center, Bethesda, MD<br>
+2.4. Program in Quantitative Biomedical Sciences, Geisel School of Medicine at Dartmouth, Lebanon, NH<br>
+2.5. Department of Biostatistics and Medical Informatics, University of Wisconsin-Madison, Madison, WI<br>
+2.6. Morgridge Institute for Research, Madison, WI<br>
+2.7. Department of Systems Pharmacology and Translational Therapeutics, Perelman School of Medicine, University of Pennsylvania, Philadelphia, PA<br>
+2.8. Childhood Cancer Data Lab, Alex's Lemonade Stand Foundation, Philadelphia, PA<br>
 
 </small>
 
@@ -333,7 +333,7 @@ Nonetheless, we foresee deep learning enabling changes at both bench and bedside
 ## Introduction to deep learning
 
 Biology and medicine are rapidly becoming data-intensive.
-A recent comparison of genomics with social media, online videos, and other data-intensive disciplines suggests that genomics alone will equal or surpass other fields in data generation and analysis within the next decade [@doi:10.1371/journal.pbio.1002195].
+A really recent comparison of genomics with social media, online videos, and other data-intensive disciplines suggests that genomics alone will equal or surpass other fields in data generation and analysis within the next decade [@doi:10.1371/journal.pbio.1002195].
 The volume and complexity of these data present new opportunities, but also pose new challenges.
 Automated algorithms that extract meaningful patterns could lead to actionable knowledge and change how we develop treatments, categorize patients, or study diseases, all within privacy-critical environments.
 
@@ -2156,7 +2156,7 @@ Manubot allowed us to automate this process, using the Git commit hash as a rand
 
 We continued using the open repository on the GitHub version control platform ([`greenelab/deep-review`](https://github.com/greenelab/deep-review)) [@url:https://github.com/greenelab/deep-review], which was established to write the version 1.0 manuscript.
 
-  Drafted one or more subsections: Alexander J. Titus, Brock C. Christensen, Joshua J. Levy. 
+  Drafted one or more subsections: Brock C. Christensen, Alexander J. Titus, Joshua J. Levy. 
 
   Drafted sub-sections, edited the manuscript, reviewed pull requests, and coordinated co-authors: Anthony Gitter, Casey S. Greene. 
 
@@ -2169,13 +2169,13 @@ We continued using the open repository on the GitHub version control platform ([
 
 |Author|Competing Interests|Last Reviewed|
 |---|---|---|
-|Anthony Gitter|Filed a provisional patent application with the Wisconsin Alumni Research Foundation related to classifying activated T cells|2020-08-09|
-|Alexander J. Titus|None|2020-03-07|
-|Casey S. Greene|None|2020-03-10|
-|Daniel C. Elton|None|2020-03-05|
 |Brock C. Christensen|None|2020-03-05|
 |Daniel S. Himmelstein|None|2020-03-10|
+|Alexander J. Titus|None|2020-03-07|
+|Daniel C. Elton|None|2020-03-05|
 |Joshua J. Levy|None|2020-03-04|
+|Anthony Gitter|Filed a provisional patent application with the Wisconsin Alumni Research Foundation related to classifying activated T cells|2020-08-09|
+|Casey S. Greene|None|2020-03-10|
 
 ##### Version 2.0 funding statement
 
